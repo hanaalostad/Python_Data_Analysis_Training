@@ -1,4 +1,4 @@
-# Python_Data_Analysis_Training
+# Python Data Analysis Training
 
 **Instructor: Dr. Hana Alostad**
 
