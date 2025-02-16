@@ -1,0 +1,7 @@
+OrderID,Date,Customer,Product,Quantity,Price,Total,City
+1001,2024-01-01,John Doe,Laptop,1,1000,,New York
+1002,2024-01-02,Alice Smith,Phone,2,500,1000,San Francisco
+1003,2024-01-03,,Tablet,1,300,300,Los Angeles
+1004,2024-01-04,Charlie Lee,Monitor,2,,400,Boston
+1005,,Eve Davis,Laptop,1,1000,1000,Chicago
+1006,2024-01-06,,Tablet,3,300,900,Miami
