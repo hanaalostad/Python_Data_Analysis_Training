@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Governorate": "Capital",
+        "Population": 610125
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [47.9484, 29.3894], [48.0321, 29.3894], [48.0321, 29.4422], [47.9484, 29.4422], [47.9484, 29.3894]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Governorate": "Hawalli",
+        "Population": 1018865
+      },
+      "geometry": {
+  "type": "Polygon",
+  "coordinates": [
+    [
+      [48.0032, 29.2954], [48.0832, 29.2954], [48.0832, 29.3554], [48.0032, 29.3554], [48.0032, 29.2954]
+    ]
+  ]
+}
+
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Governorate": "Farwaniya",
+        "Population": 1259442
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [47.9132, 29.2621], [47.9981, 29.2621], [47.9981, 29.3221], [47.9132, 29.3221], [47.9132, 29.2621]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Governorate": "Ahmadi",
+        "Population": 1122387
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [48.1121, 28.9953], [48.1852, 28.9953], [48.1852, 29.1204], [48.1121, 29.1204], [48.1121, 28.9953]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Governorate": "Jahra",
+        "Population": 637247
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [47.6101, 29.3391], [47.7384, 29.3391], [47.7384, 29.3891], [47.6101, 29.3891], [47.6101, 29.3391]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Governorate": "Mubarak Al-Kabeer",
+        "Population": 263000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [48.0512, 29.1561], [48.1112, 29.1561], [48.1112, 29.2161], [48.0512, 29.2161], [48.0512, 29.1561]
+          ]
+        ]
+      }
+    }
+  ]
+}
